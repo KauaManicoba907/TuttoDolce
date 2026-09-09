@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TuttoDolce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76e8588b2bc3276470e383ed127f965d8e8b8ec2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01a477c5a67106aa618fe71c1f990f5bcdd001de")]
 [assembly: System.Reflection.AssemblyProductAttribute("TuttoDolce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TuttoDolce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

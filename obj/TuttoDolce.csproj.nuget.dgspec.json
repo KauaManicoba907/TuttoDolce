@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kauã\\Desktop\\TuttoDolce\\TuttoDolce.csproj": {}
+    "c:\\Users\\Kauã\\Desktop\\TuttoDolce\\TuttoDolce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kauã\\Desktop\\TuttoDolce\\TuttoDolce.csproj": {
+    "c:\\Users\\Kauã\\Desktop\\TuttoDolce\\TuttoDolce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kauã\\Desktop\\TuttoDolce\\TuttoDolce.csproj",
+        "projectUniqueName": "c:\\Users\\Kauã\\Desktop\\TuttoDolce\\TuttoDolce.csproj",
         "projectName": "TuttoDolce",
-        "projectPath": "C:\\Users\\Kauã\\Desktop\\TuttoDolce\\TuttoDolce.csproj",
+        "projectPath": "c:\\Users\\Kauã\\Desktop\\TuttoDolce\\TuttoDolce.csproj",
         "packagesPath": "C:\\Users\\Kauã\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kauã\\Desktop\\TuttoDolce\\obj\\",
+        "outputPath": "c:\\Users\\Kauã\\Desktop\\TuttoDolce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kauã\\AppData\\Roaming\\NuGet\\NuGet.Config"
