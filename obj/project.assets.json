@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kauã\\TuttoDolce\\TuttoDolce.csproj",
+      "projectUniqueName": "C:\\Users\\Kauã\\Desktop\\TuttoDolce\\TuttoDolce.csproj",
       "projectName": "TuttoDolce",
-      "projectPath": "C:\\Users\\Kauã\\TuttoDolce\\TuttoDolce.csproj",
+      "projectPath": "C:\\Users\\Kauã\\Desktop\\TuttoDolce\\TuttoDolce.csproj",
       "packagesPath": "C:\\Users\\Kauã\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kauã\\TuttoDolce\\obj\\",
+      "outputPath": "C:\\Users\\Kauã\\Desktop\\TuttoDolce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kauã\\AppData\\Roaming\\NuGet\\NuGet.Config"
